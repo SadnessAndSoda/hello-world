@@ -1,2 +1,5 @@
 # hello-world
-Epic repository thing
+
+Hey,
+
+I'm SadnessAndSoda, and just started learning how to code recently. 
